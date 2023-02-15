@@ -16,7 +16,7 @@ conda list --explicit > requirements.txt
 ```
 from the repo root directory.
 
-### Data and Model Training Setup with AWS - Aakash Mishra (aakamishra)
+### Data and Model Training Setup with AWS
 
 - You can access the aws ami which is shared under the name full-data-197-final
 
