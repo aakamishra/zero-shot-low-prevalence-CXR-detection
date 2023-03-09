@@ -1,6 +1,5 @@
-# cs197-final-project
+# CheXmera
 
-This is the repo for our CS 197 final project. 
 
 # Setup (osX only currently)
 
