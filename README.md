@@ -1,5 +1,17 @@
-# CheXmera
+# Code Repository for Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models
 
+If you use this work, please cite the following:
+
+```
+@misc{mishra2023improving,
+      title={Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models}, 
+      author={Aakash Mishra and Rajat Mittal and Christy Jestin and Kostas Tingos and Pranav Rajpurkar},
+      year={2023},
+      eprint={2306.08000},
+      archivePrefix={arXiv},
+      primaryClass={physics.med-ph}
+}
+```
 
 # Setup (osX only currently)
 
